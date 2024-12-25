@@ -3,4 +3,4 @@ Kraken Wallets is an independent third-party information provider focused on sha
 # Contact
 - support@krakenwallets.info
 - 339 1st Ave, New York 10003, USA 
-[Sign Up on Kraken Wallet](https://krakenwallets.info/how-to-sign-up-on-kraken-wallet/)
+- [Sign Up on Kraken Wallet](https://krakenwallets.info/how-to-sign-up-on-kraken-wallet/)
